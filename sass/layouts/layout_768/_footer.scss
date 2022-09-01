@@ -1,0 +1,19 @@
+.footer {
+	.container {
+
+		.menu {
+			flex-direction: row;
+
+
+			.menu__item {
+				margin-right: 30px;
+				margin-bottom: 0;
+
+				&:last-child {
+					margin-right: 0;
+				}
+
+			}
+		}
+	}
+}
